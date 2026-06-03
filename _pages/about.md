@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Department of Economics, Econometrics and Finance at the University of Groningen, having started in September 2025.  
+I am a PhD candidate in the Department of Economics, Econometrics and Finance at the University of Groningen after September 2025.
 
-My doctoral research focuses on the project: *Decision Making in Generative AI: Rationality, Bias & Benchmark*.  
+My doctoral research is centered on the project: Decision Making in Generative AI: Rationality, Bias & Benchmark. Specifically, my thesis will investigates the social preferences, decision-making under risk, and intertemporal choices of Large Language Models (LLMs). Through this work, I aim to make meaningful contributions to the evolving methodology of machine behavior (Rahwan et al., 2019).
 
-With a background in Psychology (BSc) and Applied Cognitive Psychology (MSc), I approach economic problems through the lens of a behavioral scientist. I study topics at the intersection of behavioral economics, decision theory, and artificial intelligence.
+Leveraging my background in Psychology (BSc) and Applied Cognitive Psychology (MSc), I approach economic problems through the lens of a behavioral scientist. My primary research interests lie at the intersection of behavioral economics, decision theory, and artificial intelligence.
 
 Always available email: chientsechang@gmail.com
 
