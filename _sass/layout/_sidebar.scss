@@ -154,8 +154,9 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 100%;       /* 建议改成100%，让图片自动填满侧边栏的宽度 */
+    height: auto;          /* 新增这行：保证图片按原比例缩放，不变形 */
+    border-radius: 4px;    /* 把 50% 改成 4px 或 0，取消正圆形裁剪，保留微微的圆角或直角 */
 
     @include breakpoint($large) {
       padding: 5px;
