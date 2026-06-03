@@ -15,4 +15,4 @@ With a background in Psychology (BSc) and Applied Cognitive Psychology (MSc), I 
 
 Always available email: chientsechang@gmail.com
 
-[View my CV here](www.cv2334422.com)
+[View my CV here](https://www.dropbox.com/scl/fi/7h5rdx1fnv527xnbzgzhk/CV_Qianze_Zhang.pdf?rlkey=vr0crmovskoggox0twq361s3u&st=b30ze38j&dl=0)
