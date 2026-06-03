@@ -13,4 +13,6 @@ My doctoral research focuses on the project: *Decision Making in Generative AI: 
 
 With a background in Psychology (BSc) and Applied Cognitive Psychology (MSc), I approach economic problems through the lens of a behavioral scientist. I study topics at the intersection of **behavioral economics, decision theory, and artificial intelligence**.
 
+Always avaliable email: chientsechang@gmail.com
+
 [View my CV here](www.cv2334422.com)
