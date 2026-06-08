@@ -1,3 +1,13 @@
+---
+title: "PhD Teaching Duties 2026-2027"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/phd-teaching
+venue: "University of Groningen, Department of Economics"
+date: 2026-09-01
+location: "Groningen, Netherlands"
+---
+
 # 2026-2027
 
 ## Statistics I for IB 
